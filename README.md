@@ -1,13 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&height=60&lines=Hey+there+👋+I'm+Rudhira sai+Mandava;A+Passionate+Programmer+and+Developer;%7C+Tech+Lover+%7C+Traveler+%F0%9F%9A%80" alt="Typing intro" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&height=60&lines=Hey+there+👋+I'm+Rudhira+Sai+Mandava;A+Passionate+Programmer+and+Developer;Tech+Lover+|+Traveler+🚀" 
+    alt="Typing intro"
+  />
 </h1>
 
+
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GaminiVenkataSaketh.GaminiVenkataSaketh" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RudhirasaiMandava.RudhirasaiMandava" alt="Visitors" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff6ec4,100:7873f5&height=250&section=header&text=WELCOME%20TO%20MY%20GITHUB!&fontSize=35&fontAlign=50&fontAlignY=40&desc=✨%20RudirasaiMandava%20✨&descAlign=50&descAlignY=65&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff6ec4,100:7873f5&height=250&section=header&text=WELCOME%20TO%20MY%20GITHUB!&fontSize=35&fontAlign=50&fontAlignY=40&desc=✨%20RudhirasaiMandava%20✨&descAlign=50&descAlignY=65&animation=twinkling" />
 </p>
 
 ---
@@ -48,10 +52,10 @@
   <a href="mailto:mandavasai96@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/venkata-saketh-gamini-a75b1026a/" target="_blank">
+  <a href="www.linkedin.com/in/rudhira-sai-mandava-810265346" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/GaminiVenkataSaketh" target="_blank">
+  <a href=https://github.com/rudhirasaimandava" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
